@@ -6,18 +6,25 @@ After each calculation the program will add the next operation to the result unl
 Examples:
 
 1 plus 3.5
+
 divided by 6
+
 * 3
 
 Operators
 
 plus or +
+
 minus or -
+
 divided by or /
+
 times or *
+
 
 Additional commands
 
 "reset" to reset
+
 control c to exit
 
