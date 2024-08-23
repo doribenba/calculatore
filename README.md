@@ -9,7 +9,7 @@ Examples:
 
 divided by 6
 
-* 3
+ * 3
 
 Operators
 
