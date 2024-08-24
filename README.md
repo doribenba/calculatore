@@ -2,7 +2,7 @@
 
 ![Screenshot 2024-08-24 at 11 09 38](https://github.com/user-attachments/assets/d114c749-70b8-45dd-88a8-34f84e4a28a3)
 
-Welcome to **Calculatore**—a simple command-line calculator with a unique feature: it understands words as operators. This is my first program and started as a fun experiment to see if I could build a simple calculator.
+Welcome to **Calculatore** a simple command-line calculator with a unique feature: it understands words as operators. This is my first program and started as a fun experiment to see if I could build a simple calculator.
 
 ## How It Works
 
@@ -63,4 +63,4 @@ Anyone can use.
 
 **Website**: doribenba.framer.website
 
-**Happy calculating 🎉!**
+**Happy calculating! 🎉**
