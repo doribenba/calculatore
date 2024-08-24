@@ -35,4 +35,28 @@ To install this calculator via Homebrew, you'll first need to tap the repository
 ```bash
 brew tap doribenba/calculatore https://github.com/doribenba/calculatore.git
 brew install calculatore
+ ```
 
+## Usage
+
+To start the calculator, simply run:
+
+```bash
+calculatore
+ ```
+
+Then enter your calculations directly in the terminal.
+
+For Example:
+
+```bash
+1 plus 3.5
+
+divided by 6
+
+reset
+```
+
+## License
+
+Anyone can use.
