@@ -5,7 +5,7 @@ class Calculatore < Formula
   sha256 "a9f36bc63b477fd94fe1224c0acce502e53ac750878836dfd5fd5f5829dcebd6"
 
   def install
-    bin.install "calculatore_universal" => "calculatore"
+    bin.install "calculatore"
     man1.install "calculatore.1"
   end
 
