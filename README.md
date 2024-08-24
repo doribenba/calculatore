@@ -1,30 +1,38 @@
-Hello World, I made a calculator.
+# Hello World, I Made a Calculator! 🎉
 
-This was a small project to see if I could make a simple calculator, which can take words as operators.
-After each calculation the program will add the next operation to the result unless you type "reset"
+Welcome to **Calculatore**—a simple command-line calculator with a unique feature: it understands words as operators. This is my first program and started as a fun experiment to see if I could build a simple calculator.
 
-Examples:
+## How It Works
 
-1 plus 3.5
+Calculatore performs arithmetic operations using either symbols or words. After each calculation, the result will be used as the starting point for the next calculation unless you type `"reset"`.
 
-divided by 6
+### Examples
 
- * 3
+- `1 plus 3.5`  
+  Adds 3.5 to 1, resulting in 4.5.
 
-Operators
+- `divided by 6`  
+  Divides the previous result (4.5) by 6, resulting in 0.75.
 
-plus or +
+### Supported Operators
 
-minus or -
+You can use the following operators:
 
-divided by or /
+- **Addition**: `plus` or `+`
+- **Subtraction**: `minus` or `-`
+- **Division**: `divided by` or `/`
+- **Multiplication**: `times` or `*`
 
-times or *
+### Additional Commands
 
+- `"reset"`: Resets the calculator to start fresh.
+- `CTRL + C`: Exits the program.
 
-Additional commands
+## Installation
 
-"reset" to reset
+To install this calculator via Homebrew, you'll first need to tap the repository:
 
-control c to exit
+```bash
+brew tap doribenba/calculatore https://github.com/doribenba/calculatore.git
+brew install calculatore
 
