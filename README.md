@@ -47,8 +47,9 @@ calculatore
 
 Then enter your calculations directly in the terminal.
 
-## Happy calculating!
 
 ## License
 
 Anyone can use.
+
+## Happy calculating!
