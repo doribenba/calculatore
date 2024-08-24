@@ -59,6 +59,6 @@ Anyone can use.
 
 **E-mail**: doribenbass@gmail.com
 
-**Website**: doribenba.framer.website
+**Website**: [doribenba.com](https://doribenba.framer.website/)
 
 ## Happy calculating! 🎉
