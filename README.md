@@ -1,8 +1,8 @@
-# Hello World, I Made a Calculator! 💻
+# Hello World, I Made a Calculator!  💻
 ![Screenshot 2024-08-24 at 13 12 26_upscayl_3x_ultramix_balanced](https://github.com/user-attachments/assets/5b29ee95-4ce3-4e81-9379-bddbe275cb0e)
 Welcome to **Calculatore** a simple command-line calculator with a unique feature: it understands words as operators. This is my first program and started as a fun experiment to see if I could build a simple calculator.
 
-## How It Works
+## How It Works 🪛
 
 Calculatore performs arithmetic operations using either symbols or words. After each calculation, the result will be used as the starting point for the next calculation unless you type `"reset"`.
 
@@ -14,7 +14,7 @@ Calculatore performs arithmetic operations using either symbols or words. After 
 - `divided by 6`  
   Divides the previous result (4.5) by 6, resulting in 0.75.
 
-### Supported Operators
+### Supported Operators ➖➕➗
 
 You can use the following operators:
 
@@ -23,13 +23,13 @@ You can use the following operators:
 - **Division**: `divided by` or `/`
 - **Multiplication**: `times` or `*`
 
-### Additional Commands
+### Additional Commands ⌘
 
 - `"reset"`: Resets the calculator to start fresh.
 - `CTRL + C`: Exits the program.
 - `"man"`: Shows manual of program.
 
-## Installation
+## Installation 
 
 To install this calculator via Homebrew, you'll first need to tap the repository:
 
@@ -49,7 +49,7 @@ calculatore
 Then enter your calculations directly in the terminal.
 
 
-## License
+## License ©️
 
 Anyone can use.
 
