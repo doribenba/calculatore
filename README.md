@@ -1,6 +1,6 @@
 # Hello World, I Made a Calculator!  💻
 ![Screenshot 2024-08-24 at 13 12 26_upscayl_3x_ultramix_balanced](https://github.com/user-attachments/assets/5b29ee95-4ce3-4e81-9379-bddbe275cb0e)
-Welcome to **Calculatore** a simple command-line calculator with a unique feature: it understands words as operators. This is my first program and started as a fun experiment to see if I could build a simple calculator.
+Welcome to **Calculatore** a simple command-line calculator (_written in python_) with a unique feature: it understands words as operators. This is my first program and started as a fun experiment to see if I could build a simple calculator.
 
 ## How It Works 🪛
 
