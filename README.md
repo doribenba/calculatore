@@ -27,6 +27,7 @@ You can use the following operators:
 
 - `"reset"`: Resets the calculator to start fresh.
 - `CTRL + C`: Exits the program.
+- `"man"`: Shows manual of program.
 
 ## Installation
 
@@ -52,4 +53,10 @@ Then enter your calculations directly in the terminal.
 
 Anyone can use.
 
-## Happy calculating!
+## Contact
+
+**Developer**: Dorian B.
+**E-mail**: doribenbass@gmail.com
+**Website**: doribenba.framer.website
+
+**Happy calculating 🎉!**
