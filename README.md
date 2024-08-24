@@ -1,4 +1,4 @@
-# Hello World, I Made a Calculator! 🎉
+# Hello World, I Made a Calculator! 🧮
 ![Screenshot 2024-08-24 at 13 08 13](https://github.com/user-attachments/assets/1ba2e0b4-66ab-4348-9f9b-1f0bb207b975)
 Welcome to **Calculatore** a simple command-line calculator with a unique feature: it understands words as operators. This is my first program and started as a fun experiment to see if I could build a simple calculator.
 
