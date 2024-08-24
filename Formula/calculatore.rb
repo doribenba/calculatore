@@ -6,7 +6,7 @@ class Calculatore < Formula
 
   def install
     bin.install "calculatore"
-    man1.install "calculatore.1"  # Install the manual page
+    man1.install "calculatore.1
   end
 
   test do
