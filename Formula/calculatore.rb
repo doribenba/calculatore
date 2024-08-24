@@ -6,6 +6,7 @@ class Calculatore < Formula
 
   def install
     bin.install "calculatore"
+    man1.install "calculatore.1" 
   end
 
   test do
