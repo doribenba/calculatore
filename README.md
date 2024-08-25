@@ -31,7 +31,7 @@ You can use the following operators:
 
 ## Installation 
 
-To install this calculator via Homebrew, you'll first need to tap the repository:
+To install this calculator via [Homebrew]((https://homebrew.com/)), you'll first need to tap the repository:
 
 ```bash
 brew tap doribenba/calculatore https://github.com/doribenba/calculatore.git
